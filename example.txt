@@ -1,0 +1,6 @@
+A new file has been created for a different branch.
+
+Multiple things have been added.
+
+This is to test if the following works:
+Modifying the git branch to see if the file appears.
